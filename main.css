@@ -1,0 +1,78 @@
+body{
+    background-image:url("http://www.photoplato.com/photoplato/23013-spongebob-flower-background.jpg")
+    ;
+    display: flex;
+    justify-content: center; 
+    font-family: Gill Sans Extrabold, sans-serif;
+    font-size: 20px;
+    background-color:#41ebf4;    
+    background-size:100%; 
+    }
+h1{
+    color:#e5982b;
+    
+    display: flex;
+    justify-content: center; 
+    }
+h2{
+    color:#e5982b;
+    
+    display: flex;
+    justify-content: center;    
+    }
+p{
+    color:#e5982b;
+    
+    display: flex;
+    justify-content: center;  
+    }
+ul{
+    color:#e5982b;
+    display: flex;
+    justify-content: center; 
+   }
+#banner{
+    display: flex;
+    justify-content: center; 
+    border:black 2px solid;
+    text-align: center;
+    } 
+#nav{
+    white-space: nowrap;
+    text-align: center;
+    }
+#nav a{
+    font-family: Gill Sans Extrabold, sans-serif;
+    font-weight: bold;
+    color: #408c27;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center; 
+    }
+#nav a:hover{
+    color:black;
+    border-bottom:5px dotted black;
+    }
+#main{
+    
+    width: 400px;     
+    text-align:center;
+    background-color:#18d1f2;
+    opacity:0.8;   
+    }
+
+#footer{
+    display: flex;
+    justify-content:; 
+    font-family: Gill Sans Extrabold, sans-serif;
+    color: #408c27;
+    font-size: 20px;
+    text-transform: uppercase;  
+    }
+img{
+    width:400px; 
+}
+.quicklinks {
+    font-family: Verdana, sans-serif;
+    font-size: 11px;
+    }
